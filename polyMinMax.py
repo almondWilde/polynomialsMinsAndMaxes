@@ -2,6 +2,7 @@
 #x^2+2x+1
 #x^2-2x+1
 #4x^3+x^2-2x+1
+#x^4+x^3-2x^2
 
 import math as m
 from sympy import *
